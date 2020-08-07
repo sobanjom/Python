@@ -7,6 +7,7 @@ tokens = []  # contains all tokens of the source code.
 
 # register eax, ebx,..., ecx
 eax = 0
+
 ebx = 0
 ecx = 0
 edx = 0
