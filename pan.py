@@ -4,6 +4,7 @@ from matplotlib import *
 
 # .........................Series.......................#
 
+
 x1 = np.array([1, 2, 3, 4])
 s = pd.Series(x1, index=[1, 2, 3, 4])
 print(s)
